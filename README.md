@@ -3,9 +3,12 @@
 My name is Keith, or Wallphacer. I'm a Software Engineer, currently trying to improve my fundamentals and learn a more diverse range of technologies.
 
 ## Current Learning / Interests
-Rust 🦀     ⭐/⭐⭐⭐⭐⭐  
-Angular 🚀  ⭐/⭐⭐⭐⭐⭐  
-Godot 🤖    ⭐/⭐⭐⭐⭐⭐   
+# Rust 🦀  
+Learning Rust to create bots for SpaceTraders API.
+# Angular 🚀  
+Learning Angular to create a UI for SpaceTraders API
+# Godot 🤖    
+I just like expertiment with game dev technologies.
 
 
 
