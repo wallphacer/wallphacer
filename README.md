@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Keith, or Wallphacer. I'm a Software Engineer, currently trying to improve my fundamentals and learn a more diverse range of technologies.
+
+## Currently Learning
+Rust 🦀
+Angular 🚀
+Godot 🤖
+
+
+
 <!--
 **wallphacer/wallphacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
